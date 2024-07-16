@@ -1,0 +1,6 @@
+types
+1. Simple selector
+2. Combinator selector
+3. Pseduo—class Selector
+4. Pseduo—element Selector
+5. Attribute Selector
